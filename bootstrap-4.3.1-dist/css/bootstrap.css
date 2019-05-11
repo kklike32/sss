@@ -550,7 +550,7 @@ pre code {
   padding-right: 0px;
   padding-left: 0px;
   margin-right: auto;
-  margin-left: auto
+  margin-left: auto;
 }
 
 @media (min-width: 576px) {
@@ -5084,10 +5084,10 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .jumbotron {
-  padding: 2rem 1rem;
-  margin-bottom: 2rem;
-  background-color: #e9ecef;
+  padding: 0rem;
+  margin-bottom: 0rem;
   border-radius: 0.3rem;
+  background-size: cover;
 }
 
 @media (min-width: 576px) {
