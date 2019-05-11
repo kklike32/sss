@@ -3,3 +3,21 @@ hr {
   height: 2px;
   background-color: red;
 }
+
+.box {
+  background-image:  linear-gradient(white, #ea8369);
+  height: 500px;
+}
+
+.box-content {
+  padding: 0.25em;
+  vertical-align: middle;
+}
+
+.bc1 {
+  padding-top: 1.5em;
+}
+
+.cont1 {
+   background-image:  linear-gradient(#ea8369, white);
+}
